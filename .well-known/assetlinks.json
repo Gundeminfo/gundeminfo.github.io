@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.gundeminfo.kodyaddasim",
+    "sha256_cert_fingerprints": ["1C:09:6E:8A:85:82:DE:AC:5E:D4:CC:27:A1:19:91:1A:BC:71:D5:7D:A4:06:63:C1:6B:AD:38:50:3C:C6:D2:5D"]
+  }
+}]
